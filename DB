@@ -1092,7 +1092,7 @@ cd ~
 function ScriptMessage(){
  echo -e " [\e[1;32m$MyScriptName VPS Installer\e[0m]"
  echo -e ""
- echo -e " https://fb.com/dinhquoc1st"
+ echo -e " https://www.facebook.com/MacQuan.IT"
  echo -e ""
 }
 
