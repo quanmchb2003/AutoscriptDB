@@ -30,7 +30,7 @@
 <h3 align="center">Installation (Default Version)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/DB && chmod +x DB && ./DB
+wget https://raw.githubusercontent.com/quanmchb2003/AutoscriptDB/main/DB && chmod +x DB && ./DB
   ```
 
 <h3 align="center">Additional Info</h3>
